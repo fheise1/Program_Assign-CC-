@@ -4,7 +4,7 @@
 
 ### Requirements
 - Python 3.x
-- Spark
+- Microsoft Azure VM
 
 ### How to Run
 1. Download and place these files in the same directory:
